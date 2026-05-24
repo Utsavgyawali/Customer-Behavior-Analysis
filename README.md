@@ -3,7 +3,7 @@
 ## Executive Summary
 
 This end-to-end analytics project replicates a real-world enterprise data workflow, transforming raw retail transaction data into strategic, executive-level business insights.  
-The project demonstrates expertise across the modern analytics stack  **Python (Pandas), PostgreSQL, SQL, and Power BI**  
+The project demonstrates expertise across the modern analytics stack  **Python (Pandas), SQL, and Power BI**  
 while emphasizing a critical business capability: converting complex datasets into actionable strategies that directly influence growth, retention, and operational efficiency.
 
 The primary objective was to uncover the underlying behavioral patterns driving customer purchasing decisions, subscription adoption, and long-term loyalty within a retail ecosystem.  
