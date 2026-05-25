@@ -137,7 +137,7 @@ Discovered that the **Young Adult demographic contributed the highest overall re
 
 * Python
 * Pandas
-* PostgreSQL
+* MYSQL
 * SQL
 * Power BI
 
